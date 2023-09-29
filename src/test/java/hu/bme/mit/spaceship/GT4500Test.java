@@ -29,7 +29,7 @@ public class GT4500Test {
   @Test
   public void fireTorpedo_All_Success(){
     // Arrange
-    System.out.println("Szöveg");
+
     // Act
     boolean result = ship.fireTorpedo(FiringMode.ALL);
 
